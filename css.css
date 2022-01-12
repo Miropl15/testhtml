@@ -18,6 +18,7 @@ nav{
     width: 98%;
     padding: 1%;
     height: 30px;
+
 }
 nav img{
 
@@ -75,7 +76,7 @@ nav{
     justify-content: center;
     width: 98%;
     padding: 1%;
-    height: 50%;
+    height: 40%;
     flex-direction: column;
     }
 
