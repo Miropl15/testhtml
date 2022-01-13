@@ -9,6 +9,11 @@ html, body{
 
 }
 
+html{
+scroll-behavior: smooth;
+}
+
+
 nav{
 
     display: flex;
